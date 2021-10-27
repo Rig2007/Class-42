@@ -1,2 +1,2 @@
-# Class-42
-Multiplayer Car Race Game 
+# C42RV_SpeedRacer_StudentActivity
+Student Activity
